@@ -1,4 +1,4 @@
-# CRUD de Consultas 2.0 🏥
+# CRUD de Consultas 
 
 Sistema de gerenciamento de consultas desenvolvido em Python utilizando interface gráfica moderna com `CustomTkinter` e persistência de dados em `MySQL`.
 
